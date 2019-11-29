@@ -1,4 +1,7 @@
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif&display=swap" rel="stylesheet">
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -470,7 +473,8 @@ input, textarea, select, button {
   letter-spacing: -0.6px;
   font-weight: bold;
   font-style: normal;
-  font-stretch: normal
+  font-stretch: normal;
+  font-family: 'Noto Serif', serif;
 }
 
 @media (min-width: 769px) {
@@ -498,7 +502,8 @@ input, textarea, select, button {
   font-style: normal;
   font-stretch: normal;
   line-height: 1.29;
-  letter-spacing: -0.2px
+  letter-spacing: -0.2px;
+  font-family: 'Noto Serif', serif;
 }
 
 @media (min-width: 426px) {
@@ -1662,7 +1667,7 @@ body {
   top: 15px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/smallBlob--green-2cfa81c3f9af74d375b39f1593e604295c92eb22d62a33a891db2c2ad6cae1c9.svg)
+  background-image: url(./images/blobs/smallblob-green3.svg)
 }
 
 .block--featured-media .home-feature__link:hover .home-feature-info__strapline {
@@ -4262,7 +4267,7 @@ body {
   bottom: 0;
   width: 100%;
   background-repeat: no-repeat;
-  background-image: url(/assets/svg-blobs/triangle--green-ae64abd1bb90fba1b18b2239faa5befac5d2c7c34cda576944498eadd143074c.svg)
+  background-image: url(./images/blobs/triangle-green1.svg)
 }
 
 @media (min-width: 426px) {
@@ -4453,7 +4458,7 @@ body {
   transform: rotate(-16deg);
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/blob--hot-pink-bf0941c853f22267e8fae226675346da7480dc76e124b1bbfe2f6201ab3db984.svg);
+  background-image: url(./images/blobs/hotpink1.svg);
   z-index: -1
 }
 
@@ -4474,7 +4479,7 @@ body {
   height: 100%;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/footPrint--orange-b8caf1fe5537ec20568cbbc8ec9d6ac085469fed8e45581dac09ee4a6d2b1db0.svg)
+  background-image: url(./images/blobs/footprint-orange2.svg)
 }
 
 .block--join-grid .purple-dot {
@@ -4492,7 +4497,7 @@ body {
   height: 100%;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/smallBlob--purple-c66af87fcea9ee6d7c99437ad341b16ddf5ba5c10807be44151eef339349c5a4.svg)
+  background-image: url(./images/blobs/smallblob-purple.svg)
 }
 
 .block--join-grid .cell-heading {
@@ -5273,7 +5278,7 @@ body {
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(/assets/svg-blobs/triangle--green-ae64abd1bb90fba1b18b2239faa5befac5d2c7c34cda576944498eadd143074c.svg)
+  background-image: url(./images/blobs/triangle-green2.svg)
 }
 
 @media (min-width: 426px) {
@@ -5318,7 +5323,7 @@ body {
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(/assets/svg-blobs/blob--aqua-blue-9ed79701c1d00fb272787127ec1e6ca0df97cbefda88c593f24c8287f91f33bd.svg)
+  background-image: url(./images/blobs/blob-aquablue.svg)
 }
 
 @media (min-width: 1025px) {
@@ -5343,7 +5348,7 @@ body {
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(/assets/svg-blobs/footPrint--orange-b8caf1fe5537ec20568cbbc8ec9d6ac085469fed8e45581dac09ee4a6d2b1db0.svg)
+  background-image: url(./images/blobs/footprint-orange3.svg)
 }
 
 @media (min-width: 769px) {
@@ -5363,7 +5368,7 @@ body {
     display: block;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(/assets/svg-blobs/foot--yellow-1700b65c146d90adeaf075f01bc2859fc6ac7e3605fbe8f073741f1e076a1737.svg);
+    background-image: url(./images/blobs/foot-yellow.svg);
     position: absolute;
     width: 349px;
     height: 247px;
@@ -5416,7 +5421,7 @@ body {
   }
 
   .feature-blob--bottom--with-dot .side-blob__dot--green {
-    background-image: url(/assets/svg-blobs/smallBlob--green-2cfa81c3f9af74d375b39f1593e604295c92eb22d62a33a891db2c2ad6cae1c9.svg)
+    background-image: url(./images/blobs/small-blob-green.svg)
   }
 }
 
@@ -5434,7 +5439,7 @@ body {
     height: 176px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(/assets/svg-blobs/footPrint--orange-b8caf1fe5537ec20568cbbc8ec9d6ac085469fed8e45581dac09ee4a6d2b1db0.svg)
+    background-image: url(./images/blobs/footprint-orange.svg)
   }
 }
 
@@ -5455,7 +5460,7 @@ body {
   height: 176px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/footPrint--green-6a5edc9040da70ddb083c4cdb7aaf4aad33ff8e630579512368bbdadb70cd129.svg);
+  background-image: url(./images/blobs/footprints-green.svg);
   z-index: -1
 }
 
@@ -5536,11 +5541,11 @@ body {
 }
 
 .side-blob--with-dot .side-blob__dot--blue {
-  background-image: url(/assets/svg-blobs/smallBlob--blue-76bbc5d56ede86be8642a1e4e15b93e8bb3725f6e81b69e7f4f6a59a3185dfd6.svg)
+  background-image: url(./images/blobs/smallblob-blue.svg)
 }
 
 .side-blob--with-dot .side-blob__dot--green {
-  background-image: url(/assets/svg-blobs/smallBlob--green-2cfa81c3f9af74d375b39f1593e604295c92eb22d62a33a891db2c2ad6cae1c9.svg)
+  background-image: url(./images/blobs/smallblob-green.svg)
 }
 
 @media (min-width: 426px) {
@@ -5612,7 +5617,7 @@ body {
   height: 62px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/smallBlob--green-2cfa81c3f9af74d375b39f1593e604295c92eb22d62a33a891db2c2ad6cae1c9.svg);
+  background-image: url(.images/blobs/smallblog-green1.svg);
   z-index: -1
 }
 
@@ -5630,7 +5635,7 @@ body {
   height: 100%;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/footPrint--purple-584111e9993de65bbc315d956d073b131edd882d5f47126f54965b3f5ace8c95.svg)
+  background-image: url(./images/blobs/footprint-purple.svg)
 }
 
 .about__footprint--orange {
@@ -5647,7 +5652,7 @@ body {
   height: 100%;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/footPrint--orange-b8caf1fe5537ec20568cbbc8ec9d6ac085469fed8e45581dac09ee4a6d2b1db0.svg)
+  background-image: url(./images/blobs/footprint-orange1.svg)
 }
 
 .about__blob--pink {
@@ -5660,7 +5665,7 @@ body {
   transform: rotate(8deg);
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/blob--hot-pink-bf0941c853f22267e8fae226675346da7480dc76e124b1bbfe2f6201ab3db984.svg);
+  background-image: url(./images/blobs/hotpink.svg);
   z-index: -1
 }
 
@@ -5738,7 +5743,7 @@ body {
   height: 62px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(/assets/svg-blobs/smallBlob--green-2cfa81c3f9af74d375b39f1593e604295c92eb22d62a33a891db2c2ad6cae1c9.svg);
+  background-image: url(./images/blobs/smallBlob-green2.svg);
   z-index: -1
 }
 
@@ -5850,7 +5855,7 @@ body {
   bottom: 0;
   width: 100%;
   background-repeat: no-repeat;
-  background-image: url(/assets/svg-blobs/triangle--green-ae64abd1bb90fba1b18b2239faa5befac5d2c7c34cda576944498eadd143074c.svg)
+  background-image: url(./images/blobs/triangle-green.svg)
 }
 
 .block--get-started #footerCanvasContainer {
@@ -7400,8 +7405,9 @@ html.nav-open body, html.enquire-open body {
 
   .nav__primary-menu--full .nav__link {
     font-size: 18px;
-    font-size: 1.125rem;
-    font-weight: bold
+    font-size: 1.425rem;
+    font-weight: bold;
+    font-family: 'Noto Serif', serif;
   }
 }
 
@@ -7440,7 +7446,7 @@ html.nav-open body, html.enquire-open body {
   color: #fff
 }
 
-@media (min-width: 769px) {
+c
   .site-header--expandable .nav__secondary-menu {
     display: none
   }
@@ -7747,5 +7753,19 @@ html.nav-open body, html.enquire-open body {
     -webkit-box-ordinal-group: 3;
     -ms-flex-order: 2;
     order: 2
+  }
+}
+.logo{
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  transition:transform .8s ease-in-out;
+  width:48px;height:48px;
+}
+.logo:hover{
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+@media (min-width: 769px) {
+  .logo{
+    width:20px;height:20px;
   }
 }
