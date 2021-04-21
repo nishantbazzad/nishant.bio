@@ -1,5 +1,5 @@
 ## Nishant Bazzad
-## contact email: nishantb@outlook.in
+## contact email: nsbazzad@gmail.com
 
 
-This website is created to provide the right knowledge of worship as mentioned in our holy scriptures & decoded by Sant Rampal ji Maharaj.
+I'm an independent Product Designer & Frontend Developer based in India. Working on new digital experiences across mobile & web & tinkering pixels in code.
